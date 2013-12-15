@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies":{
+      "em":"0.1.x",
+      "nano":"0.x.x",
+      "appstack":"0.x.x"
+  },
   "repository": {
     "type": "git",
     "url": "http://github.com/influx6/couchstore"
