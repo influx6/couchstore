@@ -1,0 +1,23 @@
+{
+  "name": "couchstore",
+  "version": "0.0.1",
+  "description": "a simple nano wrapper with promise",
+  "main": "couchstore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/influx6/couchstore"
+  },
+  "keywords": [
+    "couchdb",
+    "wrapper"
+  ],
+  "author": "Alexander Adeniyin Ewetumo",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/influx6/couchstore/issues"
+  },
+  "homepage": "https://github.com/influx6/couchstore"
+}
